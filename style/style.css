@@ -81,6 +81,7 @@ img {
 .header-menu {
     padding-top: 32px;
     padding-bottom: 32px;
+    display: inline-block;
     font-weight: 500;
     font-size: 14px;
     line-height: 1;
@@ -170,13 +171,12 @@ img {
     padding-bottom: 25px;
     font-weight: 700;
     font-size: 36px;
-    line-height: 2.6;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--black-color);
 }
 .gallery-list {
-    padding-top: 25px;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -186,6 +186,9 @@ img {
     width: 370px;
     height: 294px;
 }
+    .section:nth-child(3) {
+        padding-top: 0;
+    }
     .section:nth-child(4) {
         background: var(--grey-color);
     }
@@ -243,7 +246,6 @@ img {
 }
 .product-item {
     width: 370px;
-    height: 404px;
     border-bottom: 1px solid var(--border-white-color);
 }
     .product-item:hover, .product-item:focus {
