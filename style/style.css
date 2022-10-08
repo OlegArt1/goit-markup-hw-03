@@ -79,8 +79,8 @@ img {
     color: var(--black-color);
 }
 .header-menu {
-    padding-top: 34px;
-    padding-bottom: 34px;
+    padding-top: 32px;
+    padding-bottom: 32px;
     font-weight: 500;
     font-size: 14px;
     line-height: 1;
@@ -104,6 +104,10 @@ img {
     .header-menu:focus {
         color: var(--focus-color);
     }
+.hero {
+    height: 600px;
+    background-color: var(--fon-black-color);
+}
 .services-title {
     height: 120px;
     padding-top: 106px;
