@@ -219,7 +219,7 @@ img {
     background-color: var(--white-color);
 }
 .team-list-name {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.19;
@@ -228,7 +228,6 @@ img {
     color: var(--black-color);
 }
 .team-list-profesion {
-    margin-top: 5px;
     font-size: 16px;
     line-height: 1.19;
     text-align: center;
@@ -259,7 +258,7 @@ img {
     border-bottom: 1px solid var(--border-white-color);
 }
 .product-list-tovar {
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     font-weight: 700;
     font-size: 18px;
     line-height: 2;
@@ -267,7 +266,6 @@ img {
     color: var(--black-color);
 }
 .product-list-type {
-    margin-top: 2px;
     font-size: 16px;
     line-height: 1.88;
     letter-spacing: 0.03em;
