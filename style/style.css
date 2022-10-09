@@ -90,8 +90,9 @@ img {
     color: var(--black-color);
 }
 .header-contact-menu {
-    padding-top: 34px;
-    padding-bottom: 34px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: inline-block;
     font-weight: 500;
     font-size: 14px;
     line-height: 1;
@@ -197,7 +198,7 @@ img {
     margin-bottom: 50px;
     font-weight: 700;
     font-size: 36px;
-    line-height: 2.6;
+    line-height: 1.17;
     text-align: center;
     letter-spacing: 0.03em;
     color: var(--black-color);
