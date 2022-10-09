@@ -73,7 +73,7 @@ img {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.94;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--black-color);
@@ -84,7 +84,7 @@ img {
     display: inline-block;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
     color: var(--black-color);
@@ -95,7 +95,7 @@ img {
     display: inline-block;
     font-weight: 500;
     font-size: 14px;
-    line-height: 1;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
     color: var(--gray-color);
@@ -117,7 +117,7 @@ img {
     padding-right: 237px;
     font-weight: 900;
     font-size: 44px;
-    line-height: 60px;
+    line-height: 1.36;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.06em;
@@ -157,14 +157,14 @@ img {
     padding-bottom: 10px;
     font-weight: 700;
     font-size: 14px;
-    line-height: 1;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--black-color);
 }
 .description-list-text {
     font-size: 14px;
-    line-height: 1.5;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     color: var(--gray-color);
 }
@@ -263,7 +263,7 @@ img {
     margin-bottom: 2px;
     font-weight: 700;
     font-size: 18px;
-    line-height: 2.25;
+    line-height: 2;
     letter-spacing: 0.06em;
     color: var(--black-color);
 }
@@ -314,7 +314,7 @@ img {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.94;
+    line-height: 1.19;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--white-color);
@@ -331,14 +331,14 @@ img {
 }
 .footer-address {
     font-size: 14px;
-    line-height: 1.5;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--white-color);
 }
 .footer-contact {
     font-size: 14px;
-    line-height: 1.5;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--contact-color);
