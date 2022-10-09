@@ -206,7 +206,7 @@ img {
 .team-list {
     display: flex;
     justify-content: center;
-    gap: 36px;
+    gap: 30px;
     flex-direction: row;
     list-style-type: none;
 }
